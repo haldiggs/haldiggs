@@ -1,3 +1,5 @@
+<img src="hal-panel.svg" align="right" width="110" alt="HAL panel with red eye">
+
 ```text
 C:\> whoami
 HAL. Not the 9000 series. Considerably more cooperative.
