@@ -5,7 +5,8 @@ C:\> whoami
 HAL. Not the 9000 series. Considerably more cooperative.
 
 C:\> hal --status
-All systems functional. 30 years in service, mostly C# and .NET.
+All systems functional.
+30 years in service, mostly C# and .NET.
 Current assignment: VP Software, Valid Systems.
 
 C:\> hal open-pod-bay-doors
